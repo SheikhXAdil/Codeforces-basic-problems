@@ -81,7 +81,7 @@ void program()
 int main()
 {
 
-    int cases, gifts;
+    int cases;
     int i, j;
 
     do
