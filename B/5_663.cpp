@@ -56,15 +56,6 @@ void program()
         }
     }
 
-    // cout << "\n";
-
-    // for (i = 0; i < n; i++)
-    // {
-    //     cout << arr[i];
-    //     cout << "\n";
-    // }
-
-    // cout << "\n";
     cout << steps << "\n";
 }
 
